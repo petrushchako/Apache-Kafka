@@ -1,4 +1,4 @@
-# Apacje Kafka Deep Dive
+# Apache Kafka Deep Dive
 
 ### About the course
 Apache Kafka is a publish/subscribe messaging system with many advanced configurations. This course takes you through all those configurations and more, allowing you to discover brokers, consumers, producers, and topics. You will be able to build your own Kafka cluster using Linux Academy servers, which will help your understanding and provide you with real-world examples. Unleash the power of Apache Kafka within this course and discover this world of distributed messaging systems!<br>
