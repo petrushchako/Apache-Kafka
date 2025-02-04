@@ -1,0 +1,97 @@
+# Apacje Kafka Deep Dive
+
+### About the course
+Apache Kafka is a publish/subscribe messaging system with many advanced configurations. This course takes you through all those configurations and more, allowing you to discover brokers, consumers, producers, and topics. You will be able to build your own Kafka cluster using Linux Academy servers, which will help your understanding and provide you with real-world examples. Unleash the power of Apache Kafka within this course and discover this world of distributed messaging systems!<br>
+Access the interactive diagram for this course: https://interactive.linuxacademy.com/diagrams/ApacheKafkaDD.html
+
+<br>
+
+### Course Outline
+- **CHAPTER 1<br>Introduction**
+  - About the Course
+  - About the Training Architect
+  - About the Interactive Diagram
+  - Course Features and Tools
+- **CHAPTER 2<br>At First Glance**
+  - Section Pep Talk: What Is Kafka?
+  - Application Metrics
+  - Messages and Schemas
+  - Topics and Partitions
+  - Producers and Consumers
+  - Brokers and Clusters
+- **CHAPTER 3<br>Installing Apache Kafka**
+  - Section Pep Talk: Installing Kafka
+  - Cluster Setup Overview
+  - Installing Kafka and Zookeeper Using Containers
+  - Installing Kafka and Zookeeper Using Binaries: Part 1
+  - Installing Kafka and Zookeeper Using Binaries: Part 2
+  - Breaking Down the Commands
+  - Publishing Messages to a Topic in Kafka
+  - Subscribing to Messages in a Topic in Kafka
+  - Using Multiple Consumers When Subscribing to Messages
+  - `Hands-on Lab` Installing a Kafka Cluster and Creating a Topic
+- **CHAPTER 4<br>Taking a Closer Look**
+  - Section Pep Talk: Taking a Closer Look
+  - Brokers
+  - Replicas
+  - Handling Requests
+  - Partitions
+- **CHAPTER 5<br>Data Delivery**
+  - Section Pep Talk: Data Delivery
+  - Reliability
+  - Integrity
+  - Security
+  - Data Types
+- **CHAPTER 6<br>Producers and Consumers**
+  - Section Pep Talk: Producers and Consumers
+  - Developing Applications for Kafka
+  - Kafka Connect
+  - File Source and File Sink
+- **CHAPTER 7<br>Topic Administration**
+  - Section Pep Talk: Topic Administration
+  - Topic Tools
+  - Topic Configurations
+  - Message Behavior
+  - `Hands-on Lab` Creating a Topic with Custom Configurations in Kafka
+- **CHAPTER 8<br>Storage Administration**
+  - Section Pep Talk: Storage Administration
+  - File Formats and Indexes
+  - File Management
+  - Storage Structures
+- **CHAPTER 9<br>Stream Processing**
+  - Section Pep Talk: Stream Processing
+  - How Streams Work
+  - Design Patterns
+  - Frameworks
+  - `Hands-on Lab` Streaming Data Using Kafka Streams to Count Words
+- **CHAPTER 10<br>Data Replication**
+  - Section Pep Talk: Data Replication
+  - Multi-Cluster Architectures
+  - MirrorMaker
+  - `Hands-on Lab` Replicating Data Between Two Kafka Clusters
+- **CHAPTER 11<br>Monitoring**
+  - Section Pep Talk: Monitoring
+  - Cluster and Broker Monitoring
+  - Broker Metrics
+  - Java Monitoring
+- **CHAPTER 12<br>Advanced Producer**
+  - Section Pep Talk: Advanced Producers
+  - Idempotent Producers
+  - Batch Compression
+  - Serializer
+  - Producer Buffer Memory
+- **CHAPTER 13<br>Advanced Consumers**
+  - Section Pep Talk: Advanced Consumers
+  - Reading Duplicate Messages
+  - Tracking Offsets
+  - Partition Rebalancing
+  - Consumer Group Coordinator
+- **CHAPTER 14**
+  - Advanced Topics
+  - Section Pep Talk: Advanced Topics
+  - Topic Design
+  - Topic Options
+  - Topic Alterations
+- **CHAPTER 15**
+  - Conclusion
+  - You Did It! What's Next?
